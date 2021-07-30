@@ -2,8 +2,8 @@ import React from "react";
 
 function Header():JSX.Element {
   return (
-    <section>
-        
+    <section className="w-full bg-black-300 h-16">
+        asd
     </section>
   )
 };
